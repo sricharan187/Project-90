@@ -1,0 +1,47 @@
+body {  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: thistle;
+}  
+button {   
+       font-size:large ;
+       background-color: #4CAF50;   
+       width: 100%;  
+        color: rgba(255, 0, 0, 0.959);   
+        padding: 15px;   
+        margin: 10px 0px;   
+        border: none;   
+        cursor: pointer;   
+         }   
+#main {   
+        border: 3px solid #e42020;   
+    }   
+ input[type=text]{   
+        width: 100%;   
+        margin: 8px 0;  
+        padding: 12px 20px;   
+        display: inline-block;   
+        border: 2px solid rgb(4, 250, 4);   
+        box-sizing: border-box;   
+    }  
+ button:hover {   
+        opacity: 0.7;   
+    }   
+.cancelbtn {   
+        width: auto;   
+        padding: 10px 18px;  
+        margin: 10px 5px;  
+    }   
+        
+     
+.container {   
+        padding: 25px;   
+        background-color: rgb(13, 186, 243);  
+    }   
+
+#login {
+    background-color: hsl(60, 100%, 50%);
+}
+
+h1 {
+    font-size:50px;
+}
